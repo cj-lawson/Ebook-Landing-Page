@@ -266,6 +266,9 @@ h3 {
 }
 
 /* Form section */
+.red-span {
+  color: #e30c2b;
+}
 .grid-bottom {
   margin-top: 2em;
 }
@@ -397,6 +400,18 @@ fieldset {
 /* Footer */
 .footer {
   background-color: #0f212b;
+}
+.github {
+  text-decoration: underline;
+  text-align: center;
+  margin: auto;
+}
+.git-center {
+  text-align: center;
+}
+.cj {
+  margin: auto;
+  padding-bottom: 2em;
 }
 
 /* Media Queries */
@@ -553,5 +568,44 @@ fieldset {
   }
   .about-p {
     text-align: left;
+  }
+  #contact {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 1px;
+  }
+  .form {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .lg {
+    font-size: 3em;
+  }
+  .value-col h1 {
+    max-width: 400px;
+  }
+  .value {
+    min-height: 80vh;
+  }
+  .value-header {
+    margin-bottom: 4em;
+  }
+  .last-header {
+    width: 100%;
+    max-width: 400px;
+  }
+  .border-left {
+    width: 100%;
+  }
+  .last-p {
+    width: 100%;
+  }
+  .ch {
+    font-size: 4em;
+    margin-bottom: 0;
+  }
+  .pg {
+    font-size: 4em;
+    margin-bottom: 0;
   }
 }
