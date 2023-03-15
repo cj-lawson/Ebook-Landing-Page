@@ -6,4 +6,4 @@
 This is a take home assignment from Incentive Solutions. The task was to Design and develop a simple landing page for a new Ebook.
 
 # Technologies and Solution
-I used simple HTML, CSS, along with flexbox for the larger layout and CSS grid for a select few layouts. I deployed the page with github pages.
+I used simple HTML, CSS, along with flexbox and Grid for the layout. I deployed the page with github pages.
