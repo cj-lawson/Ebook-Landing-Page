@@ -7,3 +7,6 @@ This is a take home assignment from Incentive Solutions. The task was to Design 
 
 # Technologies and Solution
 I used simple HTML, CSS, along with flexbox and Grid for the layout. I deployed the page with github pages.
+
+#Timeline
+Time given for the assigment was 24 hours. I ended up taking about 1 hour to develop the HTML page after gathering assets.
